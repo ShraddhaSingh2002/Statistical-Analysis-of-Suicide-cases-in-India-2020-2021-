@@ -2,11 +2,11 @@ library(tidyverse)
 library(ggplot2)
 library(ggeasy)
 library(RColorBrewer)
-a<- read.csv("E:/Fifth_sem/data/SocialStatus.csv", TRUE)
-b<- read.csv("E:/Fifth_sem/data/Education.csv", TRUE)
-c<- read.csv("E:/Fifth_sem/data/DataSet.csv", TRUE)
-d<- read.csv("E:/Fifth_sem/data/Economic.csv", TRUE)
-e<-read.csv("E:/Fifth_sem/data/GenderWise.csv", TRUE)
+a<- read.csv("SocialStatus.csv", TRUE)
+b<- read.csv("Education.csv", TRUE)
+c<- read.csv("DataSet.csv", TRUE)
+d<- read.csv("Economic.csv", TRUE)
+e<-read.csv("GenderWise.csv", TRUE)
 
 
 #Gender-wise yearly suicides in India
@@ -51,7 +51,7 @@ cplot<- ggplot(data=c, aes(x=c$Age, y=c$Suicides, fill=Gender)) +
   scale_fill_manual(values=c("#776B5D","#E48F45"))
 cplot
 
-abc<- read.csv("E:/Fifth_sem/data/Suicides.csv", TRUE)
+abc<- read.csv("Suicides.csv", TRUE)
 liplot<- ggplot(abc, aes(x = abc$Year, y = abc$No..of.Suicides))+
          geom_line(data = abc, aes(x = abc$Year, y =abc$No..of.Suicides), colour = 'navy', size = 1)+
          geom_point(size = 1.5, colour = "skyblue")+
