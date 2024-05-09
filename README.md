@@ -1,4 +1,4 @@
-# Statistical Analysis of Suicides Cases in India(2020-2021)
+# Statistical Analysis of Suicides Cases in India (2021)
 
    
    This project aims in studying the risk factors of suicide cases in the age group of 0-45. 
