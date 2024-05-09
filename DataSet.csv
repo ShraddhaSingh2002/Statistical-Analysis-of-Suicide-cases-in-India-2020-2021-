@@ -1,0 +1,11 @@
+Age,Suicides,Gender,,,,,Age-wise Suicide Distribution,,,,,,
+<18 yrs,3.09,Males,,,,,,Suicides,,,%Share Of Suicides,,
+>18 but <30,23.13,Males,,,,,,Male,Females,Trans,Males,Females,Trans
+>30 but <45,24.64,Males,,,,,<18 yrs,5075,5655,2,3.093889644,3.447477032,0.001219267
+>45  but <60,14.97,Males,,,,,>18 but <30,37941,18588,14,23.13010187,11.33186615,0.008534868
+60 and above,6.7,Males,,,,,>30 but <45,40415,11629,10,24.63833497,7.089427127,0.006096334
+<18 yrs,3.45,Females,,,,,>45  but <60,24554,5607,2,14.96893918,3.418214628,0.001219267
+>18 but <30,11.33,Females,,,,,60 and above,10994,3547,0,6.702309901,2.162369767,0
+>30 but <45,7.09,Females,,,,,,,,,,,
+>45  but <60,3.42,Females,,,,,,,,,,,
+60 and above,2.16,Females,,,,,,,,,,,

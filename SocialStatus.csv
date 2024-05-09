@@ -1,0 +1,15 @@
+Social_Status,Suicides,Gender
+unmarried,16.65,Males
+married,49.42,Males
+widowed,0.896,Males
+divorcee,0.3,Males
+separated,0.38,Males
+others,0.86,Males
+social status unknown,4.02,Males
+unmarried,7.37,Females
+married,17.48,Females
+widowed,0.62,Females
+divorcee,0.18,Females
+separated,0.15,Females
+others,0.47,Females
+social status unknown,1.17,Females

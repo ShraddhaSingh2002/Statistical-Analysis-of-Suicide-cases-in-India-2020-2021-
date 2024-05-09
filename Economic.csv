@@ -1,0 +1,9 @@
+Status,Suicides,Gender
+<1 lakh,44.39,Males
+>1 lakh but < 5 lakh,24.89,Males
+>5 lakh but <10 lakh,2.71,Males
+> 10 lakh,0.53,Males
+<1 lakh,19.75,Females
+>1 lakh but < 5 lakh,6.69,Females
+>5 lakh but <10 lakh,0.75,Females
+> 10 lakh,0.25,Females
